@@ -12,6 +12,7 @@ It's probably useful for someone, so here it is! :raised_hands:
 - Project structure.
 - C++ to C# interoperability.
 - Example Visual Studio 2022 solution that puts it all together.
+  - Sample log levels and log systems.
   - Ready to open an run.
 
 ## :warning: What this isn't
